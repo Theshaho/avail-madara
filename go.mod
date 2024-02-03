@@ -1,6 +1,6 @@
 module test
 
-go 1.21.6
+go 1.23
 
 require (
 	github.com/NethermindEth/juno v0.9.4
